@@ -1,1 +1,3 @@
 package-as: LibStub
+ignore:
+  - tests
